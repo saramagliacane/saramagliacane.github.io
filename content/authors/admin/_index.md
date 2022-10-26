@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an assistant professor at the University Amsterdam and a Research Scientist at [MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/). My group focuses on three directions, [causal representation learning](https://arxiv.org/abs/2202.03169), [causality-inspired machine learning](https://arxiv.org/abs/1707.06422) and how can causality ideas help RL [adapt to new domains](https://arxiv.org/abs/2107.02729) and [nonstationarity](https://arxiv.org/abs/2203.16582) faster.
+I am an assistant professor in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam and a Research Scientist at [MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/). My group focuses on three directions, [causal representation learning](https://arxiv.org/abs/2202.03169), [causality-inspired machine learning](https://arxiv.org/abs/1707.06422) and how can causality ideas help RL [adapt to new domains](https://arxiv.org/abs/2107.02729) and [nonstationarity](https://arxiv.org/abs/2203.16582) faster.
 The goal is to leverage ideas from causality to make ML methods robust to distribution shift and generalizable across domains and tasks. I also continue working on my previous research on causal discovery, i.e. learning causal relations from data. 
 
 Previously I was a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a sample-efficient and intervention-efficient way. I received a PhD at the VU Amsterdam on learning causal relations jointly from different experimental settings, especially in the case of latent confounders and small samples.
