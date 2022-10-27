@@ -12,7 +12,7 @@ authors:
 - Stephan Bongers
 - Philip Versteeg
 - Joris M Mooij
-tags: []
+tags: [causality-inspired ML]
 categories: []
 date: '2018-01-01'
 lastmod: 2022-10-27T12:56:28+02:00
@@ -48,5 +48,5 @@ abstract: An important goal common to domain adaptation and causal inference is 
   that exploits causal inference and does not rely on prior knowledge of the causal
   graph, the type of interventions or the intervention targets. We demonstrate our
   approach by evaluating a possible implementation on simulated and real world data.
-publication: '*Advances in Neural Information Processing Systems*'
+publication: 'NeurIPS 2018'
 ---
