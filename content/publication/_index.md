@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Recent Publications
 cms_exclude: true
 
 # View.
@@ -14,3 +14,5 @@ header:
   caption: ''
   image: ''
 ---
+
+For all publications, see here: https://scholar.google.co.uk/citations?user=H3j_zQ4AAAAJ

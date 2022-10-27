@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: For teaching matters, you can contact me via [Canvas](https://canvas.uva.nl). 
+subtitle: 
 
 content:
   email: s DOT magliacane AT uva DOT nl
@@ -23,3 +23,5 @@ content:
 design:
   columns: '2'
 ---
+
+For teaching matters, you can contact me via [Canvas](https://canvas.uva.nl). 
