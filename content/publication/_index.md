@@ -15,4 +15,7 @@ header:
   image: ''
 ---
 
-For all publications, see here: https://scholar.google.co.uk/citations?user=H3j_zQ4AAAAJ
+Here is a selected list of recent publications.
+
+For all my publications, see here: https://scholar.google.co.uk/citations?user=H3j_zQ4AAAAJ
+
