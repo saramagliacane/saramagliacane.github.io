@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Phillip Lippe
-- Sara Magliacane
+- admin
 - Sindy Löwe
 - Yuki M Asano
 - Taco Cohen
