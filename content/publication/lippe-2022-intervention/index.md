@@ -18,6 +18,18 @@ lastmod: 2022-10-27T14:52:04+02:00
 featured: false
 draft: false
 
+url_pdf: 'https://openreview.net/pdf?id=TpVzjh4M2hd'
+url_code: 'https://github.com/phlippe/CITRIS'
+#url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_poster: 'https://phlippe.github.io/media/Intervention_Design_Poster_A0.pdf'
+#url_project: ''
+#url_slides: 'https://drive.google.com/file/d/1UHU9qZGCyZNQmQ_sGqjk53Il9w9PhZNx/view'
+#url_source: 'https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf'
+url_video: 'https://www.youtube.com/watch?v=z748Lf4QTlE&feature=youtu.be'
+
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
