@@ -6,7 +6,7 @@ title: Domain Adaptation by Using Causal Inference to Predict Invariant Conditio
 subtitle: ''
 summary: ''
 authors:
-- Sara Magliacane
+- admin
 - Thijs van Ommen
 - Tom Claassen
 - Stephan Bongers
@@ -18,6 +18,21 @@ date: '2018-01-01'
 lastmod: 2022-10-27T12:56:28+02:00
 featured: false
 draft: false
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['1']
+
+url_pdf: ''
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,8 +49,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-27T10:56:28.658483Z'
-publication_types:
-- '1'
 abstract: An important goal common to domain adaptation and causal inference is to
   make accurate predictions when the distributions for the source (or training) domain(s)
   and target (or test) domain(s) differ. In many cases, these different distributions
@@ -48,5 +61,6 @@ abstract: An important goal common to domain adaptation and causal inference is 
   that exploits causal inference and does not rely on prior knowledge of the causal
   graph, the type of interventions or the intervention targets. We demonstrate our
   approach by evaluating a possible implementation on simulated and real world data.
-publication: 'NeurIPS 2018'
+publication: 'Advances in Neural Processing Systems'
+publication_short: In *NeurIPS 2018*
 ---
