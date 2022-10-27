@@ -4,7 +4,7 @@
 title: Domain Adaptation by Using Causal Inference to Predict Invariant Conditional
   Distributions
 subtitle: ''
-summary: ''
+summary: 'We show that can use labelled data in source domains and unlabelled data in the target domain to identify features that are robust to the specific shift that happens in the target dataset. While we use ideas from causality, we do not need to recover the causal graph (which in this case is not identifiable) to find these sets of features. '
 authors:
 - admin
 - Thijs van Ommen
@@ -12,7 +12,7 @@ authors:
 - Stephan Bongers
 - Philip Versteeg
 - Joris M Mooij
-tags: [causality-inspired ML]
+tags: [Causality-inspired ML]
 categories: []
 date: '2018-01-01'
 lastmod: 2022-10-27T12:56:28+02:00
@@ -25,21 +25,21 @@ draft: false
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf'
+url_code: 'https://github.com/caus-am/dom_adapt'
+#url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+#url_project: ''
+url_slides: 'https://drive.google.com/file/d/1UHU9qZGCyZNQmQ_sGqjk53Il9w9PhZNx/view'
+url_source: 'https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf'
+url_video: 'https://www.youtube.com/watch?v=z748Lf4QTlE&feature=youtu.be'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Left'
   preview_only: false
 
 # Projects (optional).
@@ -62,5 +62,6 @@ abstract: An important goal common to domain adaptation and causal inference is 
   graph, the type of interventions or the intervention targets. We demonstrate our
   approach by evaluating a possible implementation on simulated and real world data.
 publication: 'Advances in Neural Processing Systems'
-publication_short: In *NeurIPS 2018*
 ---
+
+
