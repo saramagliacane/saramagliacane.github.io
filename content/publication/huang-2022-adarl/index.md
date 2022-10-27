@@ -10,7 +10,7 @@ authors:
 - Chaochao Lu
 - admin
 - Kun Zhang
-tags: []
+tags: [causality-inspired ML]
 categories: []
 date: '2022-01-01'
 lastmod: 2022-10-27T12:56:28+02:00
@@ -40,7 +40,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: causalDomAdapt
 publishDate: '2022-10-27T10:56:28.312237Z'
 publication_types:
 - '1'

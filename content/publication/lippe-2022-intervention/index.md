@@ -11,7 +11,9 @@ authors:
 - Yuki M Asano
 - Taco Cohen
 - Efstratios Gavves
-tags: []
+tags: 
+  - causal representation learning
+  - CITRIS
 categories: []
 date: '2022-01-01'
 lastmod: 2022-10-27T14:52:04+02:00
@@ -43,11 +45,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: CITRIS
 publishDate: '2022-10-27T12:52:04.227349Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 
+  In this paper, we take a first step towards bringing two fields of causality closer together, intervention design and causal representation learning. Intervention design is a well studied task in classic causal discovery, which aims at finding the minimal sets of experiments under which the causal graph can be identified. Causal representation learning aims at recovering causal variables from high-dimensional entangled observations. In recent work in causal representation, interventions are exploited to improve identifiability, similarly to classic causal discovery. Hence, the same task becomes relevant in this setting as well, how many experiments are minimally needed to identify the latent causal variables? Based on the recent causal representation learning method CITRIS, we show that for  causal variables,  experiments are sufficient to identify causal variables from temporal, intervened sequences, which is only one more experiment than needed for classic causal discovery in the worst case. Further, we show that this bound holds empirically in experiments on a 3D rendered video dataset.
 publication: '*UAI 2022 Workshop on Causal Representation Learning*'
 links:
 - name: URL
