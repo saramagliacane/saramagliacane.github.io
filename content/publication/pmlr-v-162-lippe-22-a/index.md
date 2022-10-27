@@ -2,8 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "CITRIS: Causal Identifiability from Temporal Intervened Sequences"
-subtitle: ""
+subtitle: ''
 summary: "In CITRIS we show under which conditions can one learn causal factors from sequences of high-dimensional data, e.g. images, in case one has access to the intervention targets. "
+authors:
   - Phillip Lippe
   - admin
   - Sindy Löwe
@@ -42,8 +43,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
-  - CITRIS
+#projects: CITRIS
 
 abstract: Understanding the latent causal factors of a dynamical system from visual observations is considered a crucial step towards agents reasoning in complex environments. In this paper, we propose CITRIS, a variational autoencoder framework that learns causal representations from temporal sequences of images in which underlying causal factors have possibly been intervened upon. In contrast to the recent literature, CITRIS exploits temporality and observing intervention targets to identify scalar and multidimensional causal factors, such as 3D rotation angles. Furthermore, by introducing a normalizing flow, CITRIS can be easily extended to leverage and disentangle representations obtained by already pretrained autoencoders. Extending previous results on scalar causal factors, we prove identifiability in a more general setting, in which only some components of a causal factor are affected by interventions. In experiments on 3D rendered image sequences, CITRIS outperforms previous methods on recovering the underlying causal variables. Moreover, using pretrained autoencoders, CITRIS can even generalize to unseen instantiations of causal factors, opening future research areas in sim-to-real generalization for causal representation learning.
 

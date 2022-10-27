@@ -25,3 +25,4 @@ design:
 ---
 
 For teaching matters, you can contact me via [Canvas](https://canvas.uva.nl). 
+

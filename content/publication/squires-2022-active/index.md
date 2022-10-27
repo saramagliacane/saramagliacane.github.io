@@ -43,7 +43,7 @@ url_code: 'https://github.com/csquires/dct-policy'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: interventionDesign
+#projects: interventionDesign
 publishDate: '2022-10-27T10:56:28.484212Z'
 publication_types:
 - '1'

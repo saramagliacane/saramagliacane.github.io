@@ -47,7 +47,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: causalDomAdapt
+#projects: causalDomAdapt
 publishDate: '2022-10-27T10:56:28.658483Z'
 abstract: An important goal common to domain adaptation and causal inference is to
   make accurate predictions when the distributions for the source (or training) domain(s)
