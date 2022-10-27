@@ -23,7 +23,7 @@ url_code: 'https://github.com/phlippe/CITRIS'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_poster: 'https://phlippe.github.io/media/Intervention_Design_Poster_A0.pdf'
 #url_project: ''
-#url_slides: 'https://drive.google.com/file/d/1UHU9qZGCyZNQmQ_sGqjk53Il9w9PhZNx/view'
+url_slides: 'https://phlippe.github.io/media/UAI2022_CRL_Invited_Talk.pdf'
 #url_source: 'https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf'
 url_video: 'https://www.youtube.com/watch?v=z748Lf4QTlE&feature=youtu.be'
 
