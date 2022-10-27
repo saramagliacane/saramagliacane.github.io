@@ -8,7 +8,7 @@ authors:
 - Biwei Huang
 - Fan Feng
 - Chaochao Lu
-- Sara Magliacane
+- admin
 - Kun Zhang
 tags: []
 categories: []
@@ -16,6 +16,16 @@ date: '2022-01-01'
 lastmod: 2022-10-27T12:56:28+02:00
 featured: false
 draft: false
+
+url_pdf: 'https://openreview.net/pdf?id=8H5bpVwvt5'
+url_code: 'https://github.com/Adaptive-RL/AdaRL-code'
+#url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_poster: ''
+#url_project: ''
+#url_slides: 'https://drive.google.com/file/d/1UHU9qZGCyZNQmQ_sGqjk53Il9w9PhZNx/view'
+url_source: 'https://openreview.net/forum?id=8H5bpVwvt5'
+#url_video: 'https://www.youtube.com/watch?v=z748Lf4QTlE&feature=youtu.be'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

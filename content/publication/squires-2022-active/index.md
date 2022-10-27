@@ -6,13 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Chandler Squires
-- Sara Magliacane
+- admin
 - Kristjan Greenewald
 - Dmitriy Katz
 - Murat Kocaoglu
 - Karthikeyan Shanmugam
 tags: []
-categories: []
+categories: [causal discovery]
 date: '2020-01-01'
 lastmod: 2022-10-27T12:56:28+02:00
 featured: false
@@ -25,6 +25,16 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+url_pdf: 'https://arxiv.org/pdf/2011.00641.pdf'
+url_code: 'https://github.com/csquires/dct-policy'
+#url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_poster: ''
+#url_project: ''
+#url_slides: 'https://drive.google.com/file/d/1UHU9qZGCyZNQmQ_sGqjk53Il9w9PhZNx/view'
+#url_source: 'https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf'
+#url_video: 'https://www.youtube.com/watch?v=z748Lf4QTlE&feature=youtu.be'
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
