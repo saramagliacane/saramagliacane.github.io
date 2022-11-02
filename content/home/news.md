@@ -42,7 +42,7 @@ design:
 
 - [Upcoming] I will be giving a keynote at [Danish Data Science 2022](https://ddsa.dk/keynotespeakers/) on November 8.
 
-- Busy month: I'm area chair for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), helping organize [CLeaR 2023](https://www.cclear.cc/2023), UAI 2023 and the NeurIPS workshop ["A causal view on dynamical systems"](https://sites.google.com/view/caudyn2022).
+- Busy months: I'm an area chair for [CLeaR 2023](https://www.cclear.cc/2023), a meta-reviewer for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), helping organize [CLeaR 2023](https://www.cclear.cc/2023), [UAI 2023](https://www.auai.org/uai2022/) and the NeurIPS workshop ["A causal view on dynamical systems"](https://sites.google.com/view/caudyn2022).
 
 
 - I gave a lecture at the [Advanced machine learning for Innovative Drug Discovery School](https://ai.kuleuven.be/events/aidd-school-leuven-advanced-machine-learning-for-innovative-drug-discovery) in Leuven.
