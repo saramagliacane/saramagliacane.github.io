@@ -40,7 +40,7 @@ design:
   view: 2
 ---
 
-- I gave a keynote on causality-inspired ML at [Danish Data Science 2022](https://ddsa.dk/keynotespeakers/) on November 8 [slides](https://saramagliacane.github.io/slides/DanishDataScience2022_magliacane.pdf).
+- I gave a keynote on causality-inspired ML at [Danish Data Science 2022](https://ddsa.dk/keynotespeakers/) on November 8, here are the [slides](https://saramagliacane.github.io/slides/DanishDataScience2022_magliacane.pdf).
 
 - Busy months: I'm an area chair for [CLeaR 2023](https://www.cclear.cc/2023), a meta-reviewer for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), helping organize [CLeaR 2023](https://www.cclear.cc/2023), [UAI 2023](https://www.auai.org/uai2022/) and the NeurIPS workshop ["A causal view on dynamical systems"](https://sites.google.com/view/caudyn2022).
 
