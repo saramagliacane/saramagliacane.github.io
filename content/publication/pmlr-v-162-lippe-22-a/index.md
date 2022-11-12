@@ -27,7 +27,6 @@ url_poster: 'https://phlippe.github.io/media/CITRIS_Poster.pdf'
 #url_project: 'CITRIS'
 url_slides: 'https://phlippe.github.io/media/CITRIS_Slides.pdf'
 url_source: 'https://proceedings.mlr.press/v162/lippe22a.html'
-url_video: 'https://www.youtube.com/watch?v=ro_5FqiS5qU'
 
 
 # Featured image
