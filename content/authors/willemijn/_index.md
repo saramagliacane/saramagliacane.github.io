@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Mátyás Schubert
+title: Willemijn de Hoop
 
 # Username (this should match the folder name)
 authors:
-  - Mátyás Schubert
+  - Willemijn de Hoop
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (UvA)
+role: Master student (UvA)
 
 # Organizations/Affiliations
 organizations:
@@ -45,12 +45,12 @@ social:
  # - icon: envelope
  #   icon_pack: fas
  #   link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/matyasschubert
-  - icon: linkedin
-    icon_pack: fab
-    link: https://nl.linkedin.com/in/matyas-schubert
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/_evasevenster
+ # - icon: linkedin
+ #   icon_pack: fab
+ #   link: https://nl.linkedin.com/in/eva-sevenster-095b9114a
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD students
+  - Master students
 ---
 
