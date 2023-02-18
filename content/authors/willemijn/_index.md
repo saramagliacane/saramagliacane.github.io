@@ -48,9 +48,9 @@ social:
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/_evasevenster
- # - icon: linkedin
- #   icon_pack: fab
- #   link: https://nl.linkedin.com/in/eva-sevenster-095b9114a
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/willemijn-de-hoop-72a997170
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
