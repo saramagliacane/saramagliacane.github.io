@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Mátyás Schubert
+title: Fan Feng
 
 # Username (this should match the folder name)
 authors:
-  - Mátyás Schubert
+  - Fan Feng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student (UvA)
+role: PhD student (City University Hong Kong)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Amsterdam
+  - name: City University Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -47,10 +47,10 @@ social:
  #   link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/matyasschubert
+    link: https://twitter.com/ffeng01
   - icon: linkedin
     icon_pack: fab
-    link: https://nl.linkedin.com/in/matyas-schubert
+    link: https://www.linkedin.com/in/fan-feng-473b9120b/
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD students
+  - Guest researchers
 ---
 

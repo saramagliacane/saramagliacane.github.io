@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mátyás Schubert
+title: Eva Sevenster
 
 # Username (this should match the folder name)
 authors:
-  - Mátyás Schubert
+  - Eva Sevenster
 
 # Is this the primary user of the site?
 superuser: false
@@ -47,10 +47,10 @@ social:
  #   link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/matyasschubert
+    link: https://twitter.com/_evasevenster
   - icon: linkedin
     icon_pack: fab
-    link: https://nl.linkedin.com/in/matyas-schubert
+    link: https://nl.linkedin.com/in/eva-sevenster-095b9114a
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD students
+  - Master students
 ---
 
