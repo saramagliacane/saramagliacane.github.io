@@ -48,8 +48,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yongtuo-liu-b9091b11b/
-  - icon: house
-    icon_pack: fab
+  - icon: ai
+    icon_pack: google-scholar
     link: https://scholar.google.com/citations?user=EjzPQtMAAAAJ&hl=en
  # - icon: github
  #   icon_pack: fab

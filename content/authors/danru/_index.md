@@ -49,7 +49,7 @@ social:
  #   icon_pack: fab
  #   link: https://twitter.com/matyasschubert
   - icon: house
-    icon_pack: fab
+    icon_pack: fas
     link: https://danruxu.wordpress.com/danru-xu/
  # - icon: github
  #   icon_pack: fab
