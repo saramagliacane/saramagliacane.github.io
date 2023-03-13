@@ -19,7 +19,7 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 60
-  - name: Contact
+  - name: Contact & Jobs
     url: '#contact'
     weight: 70
 
