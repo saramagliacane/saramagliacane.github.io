@@ -40,6 +40,8 @@ design:
   view: 2
 ---
 
+- 15 March 2023: I will give a keynote at [Yes Causal Inference](https://www.eurandom.tue.nl/event/yes-causal-inference/#Programme_and_Talks) 
+
 - I gave two lectures on causal discovery and causality-inspired ML at the Barcelona School of Economics at the [ML and causality course](https://events.bse.eu/live/files/3518-21d007-machine-learning-and-causal-inferenceokpdf) in the Data Science Master.
 
 - I gave a talk on Causality and robustness to distribution shifts at the [Bellairs Workshop on Causality](https://aldro61.github.io/bcl2023/)
