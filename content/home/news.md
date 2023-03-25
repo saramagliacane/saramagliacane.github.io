@@ -40,7 +40,9 @@ design:
   view: 2
 ---
 
-- 15 March 2023: I will give a keynote at [Yes Causal Inference](https://www.eurandom.tue.nl/event/yes-causal-inference/#Programme_and_Talks) 
+- 20 March 2023: I gave a talk on causality and distribution shifts at the 1st joint webinar of the IMS New Researchers Group, Young Data Science Researcher Seminar Zürich and the YoungStatS Project. Check the [video of the talk](https://www.youtube.com/live/XQ-Udp_WaMM?feature=share&t=2382) and also check the previous talk by Zijian Guo and the discussion by Niklas Pfister.
+
+- 15 March 2023: I gave a keynote at [Yes Causal Inference](https://www.eurandom.tue.nl/event/yes-causal-inference/#Programme_and_Talks) in Eidhoven.
 
 - I gave two lectures on causal discovery and causality-inspired ML at the Barcelona School of Economics at the [ML and causality course](https://events.bse.eu/live/files/3518-21d007-machine-learning-and-causal-inferenceokpdf) in the Data Science Master.
 
