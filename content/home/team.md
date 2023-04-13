@@ -21,6 +21,7 @@ content:
     - Guest researchers
     - MIT-IBM collaborators
     - Alumni
+    - Openings
 design:
   show_interests: false
   show_role: true
