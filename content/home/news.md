@@ -40,6 +40,12 @@ design:
   view: 2
 ---
 
+- We have an opening for a PhD student in [Causality-inspired ML for robust fraud prediction](https://vacatures.uva.nl/UvA/job/Seven-PhD-positions-in-AI-for-Fintech/768660802/) with dr. [Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html) in the context of a large AI 4 Fintech project at the University of Amsterdam.
+
+- 11-14 April 2023: I'm in the organization team of CLeaR 2023, you can see what's going on here on [Twitter](https://twitter.com/CLeaR_2022) 
+
+- 28 March 2023: I participated in an "Interdisciplinary Perspectives on AI & Culture" event on [Prediction and causality](https://www.eventbrite.com/e/interdisciplinary-perspectives-on-ai-culture-2-prediction-causality-tickets-547750104307) with historian Melvin Wevers.
+
 - 20 March 2023: I gave a talk on causality and distribution shifts at the 1st joint webinar of the IMS New Researchers Group, Young Data Science Researcher Seminar Zürich and the YoungStatS Project. Check the [video of the talk](https://www.youtube.com/live/XQ-Udp_WaMM?feature=share&t=2382) and also check the previous talk by Zijian Guo and the discussion by Niklas Pfister.
 
 - 15 March 2023: I gave a keynote at [Yes Causal Inference](https://www.eurandom.tue.nl/event/yes-causal-inference/#Programme_and_Talks) in Eidhoven.
