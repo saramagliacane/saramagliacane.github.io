@@ -40,7 +40,10 @@ design:
   view: 2
 ---
 
-- We have an opening for a PhD student in [Causality-inspired ML for robust fraud prediction](https://vacatures.uva.nl/UvA/job/Seven-PhD-positions-in-AI-for-Fintech/768660802/) with [dr. Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html) in the context of a large AI 4 Fintech project at the University of Amsterdam.
+
+- We have an opening for a PhD student in [Causality-inspired ML for robust fraud prediction](https://vacatures.uva.nl/UvA/job/Seven-PhD-positions-in-AI-for-Fintech/768660802/) with [dr. Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html) in the context of a large AI 4 Fintech project at the University of Amsterdam. Deadline: 21 May!
+
+- 5 May 2023: I'm giving a keynote (virtually) at the ICLR 2023 workshop [Time Series Representation Learning in Health](https://sites.google.com/view/tsrl4h-iclr2023)
 
 - 11-14 April 2023: I'm in the organization team of CLeaR 2023, you can see what's going on here on [Twitter](https://twitter.com/CLeaR_2022) 
 
