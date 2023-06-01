@@ -40,6 +40,9 @@ design:
   view: 2
 ---
 
+- I will give a talk on [Causal vs Causality-inspired representation learning](https://mpml.tecnico.ulisboa.pt/seminars?id=7007) at the IST seminar series Mathematics, Physics & Machine Learning on Thursday June 8. 
+
+- I gave a lecture at the [SIKS causal inference course](https://siks.nl/activities/activities/siks-course-on-causal-inference/) on [constraint-based causal discovery](https://siks.nl/wp-content/uploads/sites/670/2023/05/SIKS_constraint_based_causal_discovery.pdf).
 
 - We have an opening for a PhD student in [Causality-inspired ML for robust fraud prediction](https://vacatures.uva.nl/UvA/job/Seven-PhD-positions-in-AI-for-Fintech/768660802/) with [dr. Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html) in the context of a large AI 4 Fintech project at the University of Amsterdam. Deadline: 21 May!
 
