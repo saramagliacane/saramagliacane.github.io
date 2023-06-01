@@ -29,8 +29,6 @@ For teaching matters, you can contact me via [Canvas](https://canvas.uva.nl).
 
 **PhD students** If you have questions about joining my group or AMLab, check this [list](http://amlab.science.uva.nl/joining/) first. 
 
-We have an open [PhD position in Causality-inspired ML for robust fraud prediction](https://vacatures.uva.nl/UvA/job/Seven-PhD-positions-in-AI-for-Fintech/768660802/) in the context of a large AI 4 Fintech project at the University of Amsterdam.
-I will be co-supervising with [dr. Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html), deadline is May 21 2023.
 
 **Other jobs** Currently I don't have any open vacancy for interns, research assistants or postdocs, but if I do, they will be announced on the [UvA vacancies website](https://vacatures.uva.nl/UvA/search/?createNewAlert=false&q=&optionsFacetsDD_department=&optionsFacetsDD_shifttype=Promotieplaats&optionsFacetsDD_facility=Faculteit+der+Natuurw.%2C+Wiskunde+%26+Informatica).
 
