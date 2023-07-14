@@ -40,7 +40,7 @@ design:
   view: 2
 ---
 
-- We are organizing a [NeurIPS 2023 workshop on Causal Representation Learning] (https://crl-workshop.github.io/), deadline Sept 29!
+- We are organizing a [NeurIPS 2023 workshop on Causal Representation Learning](https://crl-workshop.github.io/), deadline Sept 29! I'm also helping organize [UAI 2023](https://www.auai.org/uai2023/) in the first week of August.
 
 - I gave an invited talk on Causality-inspired ML at the [European Meeting of Statisticians](https://ems2023.org/ems) in Warsaw. Pierogi <3
 
