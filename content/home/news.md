@@ -40,7 +40,11 @@ design:
   view: 2
 ---
 
-- I will give a talk on [Causal vs Causality-inspired representation learning](https://mpml.tecnico.ulisboa.pt/seminars?id=7007) at the IST seminar series Mathematics, Physics & Machine Learning on Thursday June 8. 
+- We are organizing a [NeurIPS 2023 workshop on Causal Representation Learning] (https://crl-workshop.github.io/), deadline Sept 29!
+
+- I gave an invited talk on Causality-inspired ML at the [European Meeting of Statisticians](https://ems2023.org/ems) in Warsaw. Pierogi <3
+
+- I gave a talk on [Causal vs Causality-inspired representation learning](https://mpml.tecnico.ulisboa.pt/seminars?id=7007) at the IST seminar series Mathematics, Physics & Machine Learning on Thursday June 8. 
 
 - I gave a lecture at the [SIKS causal inference course](https://siks.nl/activities/activities/siks-course-on-causal-inference/) on [constraint-based causal discovery](https://siks.nl/wp-content/uploads/sites/670/2023/05/SIKS_constraint_based_causal_discovery.pdf).
 
