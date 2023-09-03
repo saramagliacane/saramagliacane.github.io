@@ -6,7 +6,7 @@ summary: Master course that presents various topics in causality, from causal gr
 
 
 # Date published
-date: '2023-9-3T00:00:00Z'
+date: '2023-09-03T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
