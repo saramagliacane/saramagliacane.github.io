@@ -59,8 +59,6 @@ Here are the [slides](https://saramagliacane.github.io/slides/ellis_doctoral_sym
 
 - June 2023: I gave a lecture at the [SIKS causal inference course](https://siks.nl/activities/activities/siks-course-on-causal-inference/) on [constraint-based causal discovery](https://siks.nl/wp-content/uploads/sites/670/2023/05/SIKS_constraint_based_causal_discovery.pdf).
 
-- **Applications closed**: We had an opening for a PhD student in [Causality-inspired ML for robust fraud prediction](https://vacatures.uva.nl/UvA/job/Seven-PhD-positions-in-AI-for-Fintech/768660802/) with [dr. Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html) in the context of a large AI 4 Fintech project at the University of Amsterdam. Deadline: 21 May 2023
-
 - 5 May 2023: I'm giving a keynote (virtually) at the ICLR 2023 workshop [Time Series Representation Learning in Health](https://sites.google.com/view/tsrl4h-iclr2023)
 
 - 11-14 April 2023: I'm in the organization team of CLeaR 2023, you can see what's going on here on [Twitter](https://twitter.com/CLeaR_2022) 
@@ -77,18 +75,8 @@ Here are the [slides](https://saramagliacane.github.io/slides/ellis_doctoral_sym
 
 - January 2023: I gave a talk on Causality and robustness to distribution shifts at the [Bellairs Workshop on Causality](https://aldro61.github.io/bcl2023/)
 
-
 - November 2022: I gave a keynote on causality-inspired ML at [Danish Data Science 2022](https://ddsa.dk/keynotespeakers/) on November 8, here are the [slides](https://saramagliacane.github.io/slides/DanishDataScience2022_magliacane.pdf).
 
 - November-December 2022: Busy months: I'm an area chair for [CLeaR 2023](https://www.cclear.cc/2023), a meta-reviewer for [AAAI 2023](https://aaai.org/Conferences/AAAI-23/), helping organize [CLeaR 2023](https://www.cclear.cc/2023), [UAI 2023](https://www.auai.org/uai2022/) and the NeurIPS workshop ["A causal view on dynamical systems"](https://sites.google.com/view/caudyn2022).
-
-
-- I gave a lecture at the [Advanced machine learning for Innovative Drug Discovery School](https://ai.kuleuven.be/events/aidd-school-leuven-advanced-machine-learning-for-innovative-drug-discovery) in Leuven.
-
-- I gave a lecture at the [International Summer School on Advances in AI](https://aisummerschool.disco.unimib.it/home) in Como.
-
-- I talked about causality-inspired ML at the [2022 Pacific Causal Inference conference](http://conference.bicmr.pku.edu.cn/meeting/index?id=101).
-
-- Invited talk at the [Workshop on Artificial Intelligence, Causality and Personalized Medicine](https://aicpm22.l3s.de/) in Hannover.
 
 - The first workshop on [Causal Representation Learning](https://crl-uai-2022.github.io/) at UAI 2022 was a success! Here are all the [slides](https://crl-uai-2022.github.io/slides-recording/) and the [videos of the talks](https://www.youtube.com/watch?v=kSwURlFarzE) in the afternoon session.
