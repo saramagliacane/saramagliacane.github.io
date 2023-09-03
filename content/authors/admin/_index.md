@@ -82,4 +82,4 @@ The goal is to leverage ideas from causality to make ML methods robust to distri
 Previously I was a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at the VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. 
 During Spring 2022, I was visiting the [Simons Institute in Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cvMagliacane.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/magliacane_cv_august2023.pdf" "newtab" >}}resumé{{< /staticref >}}.
