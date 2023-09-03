@@ -22,6 +22,9 @@ main:
   - name: Contact & Jobs
     url: '#contact'
     weight: 70
+  - name: Amsterdam Causality Meeting
+    url: "https://amscausality.github.io/"
+    weight: 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
