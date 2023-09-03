@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: News
-    url: '#news'
-    weight: 20
   - name: Publications
     url: '#publications'
     weight: 30
@@ -19,6 +16,9 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 60
+  - name: News
+    url: '#news'
+    weight: 65
   - name: Contact & Jobs
     url: '#contact'
     weight: 70
