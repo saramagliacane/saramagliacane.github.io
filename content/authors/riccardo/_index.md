@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Danilo de Goede
+title: Riccardo Massidda
 
 # Username (this should match the folder name)
 authors:
-  - Danilo de Goede
+  - Riccardo Massidda
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student (UvA)
+role: PhD student (University of Pisa)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Amsterdam
+  - name: University of Pisa
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,12 +45,12 @@ social:
  # - icon: envelope
  #   icon_pack: fas
  #   link: 'mailto:test@example.org'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/matyasschubert
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/danilo-de-goede-04161b1a2/
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/ffeng01
+  - icon: house
+    icon_pack: fas
+    link: https://pages.di.unipi.it/massidda/
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Guest researchers
 ---
 

@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student (UvA)
+role: PhD student (AUMC)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Amsterdam
+  - name: Amsterdam University Medical Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - PhD students
 ---
 

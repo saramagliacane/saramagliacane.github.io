@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Danilo de Goede
+title: Pieter Bouwman
 
 # Username (this should match the folder name)
 authors:
-  - Danilo de Goede
+  - Pieter Bouwman
 
 # Is this the primary user of the site?
 superuser: false
@@ -50,7 +50,7 @@ social:
   #  link: https://twitter.com/matyasschubert
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/danilo-de-goede-04161b1a2/
+    link: https://www.linkedin.com/in/pieter-bouwman-64381120a/
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Master students
 ---
 
