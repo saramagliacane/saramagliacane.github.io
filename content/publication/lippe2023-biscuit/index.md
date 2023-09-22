@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: BISCUIT: Causal Representation Learning from Binary Interactions
+title: 'BISCUIT: Causal Representation Learning from Binary Interactions'
 subtitle: ''
 summary: ''
 authors:
