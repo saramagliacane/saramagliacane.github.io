@@ -18,6 +18,7 @@ content:
   user_groups:
     - Master students
     - PhD students
+    - Close collaborators
     - Guest researchers
     - MIT-IBM collaborators
     - Alumni

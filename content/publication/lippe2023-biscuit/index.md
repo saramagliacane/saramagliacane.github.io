@@ -50,7 +50,7 @@ publication_types:
 - '1'
 abstract: 
   Identifying the causal variables of an environment and how to intervene on them is of core value in applications such as robotics and embodied AI. While an agent can commonly interact with the environment and may implicitly perturb the behavior of some of these causal variables, often the targets it affects remain unknown. In this paper, we show that causal variables can still be identified for many common setups, e.g., additive Gaussian noise models, if the agent’s interactions with a causal variable can be described by an unknown binary variable. This happens when each causal variable has two different mechanisms, e.g., an observational and an interventional one. Using this identifiability result, we propose BISCUIT, a method for simultaneously learning causal variables and their corresponding binary interaction variables. On three robotic-inspired datasets, BISCUIT accurately identifies causal variables and can even be scaled to complex, realistic environments for embodied AI.
-publication: '*Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence*'
+publication: '*UAI 2023*'
 links:
 - name: URL
   url: https://phlippe.github.io/BISCUIT/

@@ -66,8 +66,8 @@ environment by just estimating the interactions and latent parameters. We evalua
 DAFT-RL in three benchmark datasets and show our framework outperforms the
 state-of-the-art in generalizing across unseen objects with varying attributes and
 latent parameters, as well as in the composition of previously learned tasks
-publication: '*Advances in Neural Information Processing Systems*'
+publication: '*NeurIPS 2023*'
 links:
 - name: URL
-  url: https://openreview.net/forum?id=rW6ENT7EtX
+  url: https://arxiv.org/pdf/2307.09205.pdf
 ---

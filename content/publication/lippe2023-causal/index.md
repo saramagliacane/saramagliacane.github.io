@@ -51,7 +51,7 @@ publication_types:
 - '1'
 abstract: 
   Causal representation learning is the task of identifying the underlying causal variables and their relations from high-dimensional observations, such as images. Recent work has shown that one can reconstruct the causal variables from temporal sequences of observations under the assumption that there are no instantaneous causal relations between them. In practical applications, however, our measurement or frame rate might be slower than many of the causal effects. This effectively creates ``instantaneous' effects and invalidates previous identifiability results. To address this issue, we propose iCITRIS, a causal representation learning method that allows for instantaneous effects in intervened temporal sequences when intervention targets can be observed, e.g., as actions of an agent. iCITRIS identifies the potentially multidimensional causal variables from temporal observations, while simultaneously using a differentiable causal discovery method to learn their causal graph. In experiments on three datasets of interactive systems, iCITRIS accurately identifies the causal variables and their causal graph.
-publication: '*The Eleventh International Conference on Learning Representations*'
+publication: '*ICLR 2023*'
 links:
 - name: URL
   url: https://openreview.net/forum?id=itZ6ggvMnzS
