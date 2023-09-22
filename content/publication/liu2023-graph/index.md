@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Graph Switching Dynamical Systemss in Interactive Systems
+title: Graph Switching Dynamical Systems in Interactive Systems
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 - Miltos Kofinas
 - Efstratios Gavves
 tags: 
-  - dynamical systesm
+  - dynamical systems
 categories: []
 date: '2023-03-01'
 lastmod: 2023-03-25T14:52:04+02:00
