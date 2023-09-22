@@ -8,7 +8,7 @@ authors:
 - Ilze Amanda Auzina
 - Cagatay Yildiz
 - admin
-- Matthias Bethge,
+- Matthias Bethge
 - Efstratios Gavves
 tags: 
   - dynamical systems
@@ -48,7 +48,7 @@ publishDate: '2023-9-22T12:52:04.227349Z'
 publication_types:
 - '1'
 abstract: 
-  Neural ordinary differential equations (NODEs) have been proven useful for learning non-linear dynamics of arbitrary trajectories. However, current NODE methods
+  'Neural ordinary differential equations (NODEs) have been proven useful for learning non-linear dynamics of arbitrary trajectories. However, current NODE methods
 capture variations across trajectories only via the initial state value or by autoregressive encoder updates. In this work, we introduce Modulated Neural ODEs
 (MoNODEs), a novel framework that sets apart dynamics states from underlying
 static factors of variation and improves the existing NODE methods. In particular,
@@ -60,7 +60,7 @@ improves the existing model ability to generalize to new dynamic parameterizatio
 and to perform far-horizon forecasting. In addition, we verify that the proposed
 modulator variables are informative of the true unknown factors of variation as
 measured by R2
-scores.
+scores.'
 publication: '*NeurIPS 2023*'
 links:
 - name: URL
