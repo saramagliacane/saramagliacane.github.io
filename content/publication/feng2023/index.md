@@ -45,7 +45,7 @@ publishDate: '2023-9-22T12:52:04.227349Z'
 publication_types:
 - '1'
 abstract: 
-  In many reinforcement learning tasks, the agent has to learn to interact with many
+  'In many reinforcement learning tasks, the agent has to learn to interact with many
 objects of different types and generalize to unseen combinations and numbers
 of objects. Often a task is a composition of previously learned tasks (e.g. block
 stacking). These are examples of compositional generalization, in which we
@@ -65,7 +65,7 @@ between objects, we can learn a policy that can then be directly applied in a ne
 environment by just estimating the interactions and latent parameters. We evaluate
 DAFT-RL in three benchmark datasets and show our framework outperforms the
 state-of-the-art in generalizing across unseen objects with varying attributes and
-latent parameters, as well as in the composition of previously learned tasks
+latent parameters, as well as in the composition of previously learned tasks.'
 publication: '*NeurIPS 2023*'
 links:
 - name: URL
