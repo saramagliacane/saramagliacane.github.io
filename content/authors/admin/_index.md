@@ -34,8 +34,8 @@ education:
     - course: PhD in Artificial Intelligence
       institution: VU Amsterdam
       year: 2017
-    - course: MSc in Computer Engineering (double degree)
-      institution: Politecnico di Milano, Politecnico di Torino
+    - course: MSc in Computer Engineering 
+      institution: Politecnico di Milano, Politecnico di Torino (double degree)
       year: 2011
     - course: BSc in Computer Engineering
       institution: Università degli Studi di Trieste
@@ -84,6 +84,6 @@ I am an assistant professor in the [Amsterdam Machine Learning Lab](http://amlab
 The goal of my research program is to find how can causality and causal reasoning improve current machine learning (ML) algorithms, especially in terms of robustness, generalization across domains/tasks, and safety.
 My research focuses on three directions: *causal representation learning* (i.e. learning causal factors from high-dimensional data, e.g. sequences of images\[[1](https://saramagliacane.github.io/publication/pmlr-v-162-lippe-22-a/), [2](https://saramagliacane.github.io/publication/lippe2023-causal/), [3](https://saramagliacane.github.io/publication/lippe2023-biscuit/)\]), *causal discovery* (i.e. learning causal relations from data), and *causality-inspired ML*, e.g. how can ideas from causality help ML/RL [adapt to new domains](https://saramagliacane.github.io/publication/huang-2022-adarl/), [nonstationarity](https://saramagliacane.github.io/publication/feng-2022-factored/) and [varying number of objects with different latent parameters](https://saramagliacane.github.io/publication/feng2023/), even when we cannot guarantee that we identified the true causal factors. 
 
-Previously I was a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at the VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. During my PhD I interned at Google Zürich and Google Research NYC. Previously, I had studied Computer Engineering at Politecnico di Milano/Torino and at the University of Trieste.
+Previously I was a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at the VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. During my PhD I interned at Google Zürich and Google Research NYC. Previously, I had studied Computer Engineering at Politecnico di Milano and Torino and at the University of Trieste.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/magliacane_cv_august2023.pdf" "newtab" >}}resumé{{< /staticref >}}.
