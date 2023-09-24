@@ -24,9 +24,11 @@ bio: I'm an assistant professor at the University of Amsterdam and a researcher 
 
 # Interests to show in About widget
 interests:
-  - Causality, causal discovery
+  - Causal discovery
   - Causal Representation Learning
   - Causality-inspired ML and RL
+  - Causality in general
+  - Neurosymbolic/StarAI approaches
 
 # Education to show in About widget
 education:
