@@ -24,8 +24,8 @@ bio: I'm an assistant professor at the University of Amsterdam and a researcher 
 
 # Interests to show in About widget
 interests:
-  - Causal discovery
   - Causal Representation Learning
+  - Causal discovery
   - Causality-inspired ML and RL
   - Causality in general
   - Neurosymbolic/StarAI approaches
@@ -83,9 +83,9 @@ highlight_name: true
 
 I am an assistant professor in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam and a Research Scientist at [MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/). During Spring 2022, I was visiting the [Simons Institute in Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022).
 
-The goal of my research program is to find how can causality and causal reasoning improve current machine learning (ML) algorithms, especially in terms of robustness, generalization across domains/tasks, and safety.
-My research focuses on three directions: *causal representation learning* (i.e. learning causal factors from high-dimensional data, e.g. sequences of images\[[1](https://saramagliacane.github.io/publication/pmlr-v-162-lippe-22-a/), [2](https://saramagliacane.github.io/publication/lippe2023-causal/), [3](https://saramagliacane.github.io/publication/lippe2023-biscuit/)\]), *causal discovery* (i.e. learning causal relations from data), and *causality-inspired ML*, e.g. how can ideas from causality help ML/RL [adapt to new domains](https://saramagliacane.github.io/publication/huang-2022-adarl/), [nonstationarity](https://saramagliacane.github.io/publication/feng-2022-factored/) and [varying number of objects with different latent parameters](https://saramagliacane.github.io/publication/feng2023/), even when we cannot guarantee that we identified the true causal factors. 
+The goal of my research is to find how can causality and causal reasoning improve current machine learning (ML) algorithms, especially in terms of robustness, generalization across domains/tasks, and safety.
+My research focuses on three directions: *causal representation learning* (i.e. learning causal factors from high-dimensional data, e.g. sequences of images \[[1](https://saramagliacane.github.io/publication/pmlr-v-162-lippe-22-a/), [2](https://saramagliacane.github.io/publication/lippe2023-causal/), [3](https://saramagliacane.github.io/publication/lippe2023-biscuit/)\]), *causal discovery* (i.e. learning causal relations from data), and *causality-inspired ML*, e.g. how can ideas from causality help ML/RL [adapt to new domains](https://saramagliacane.github.io/publication/huang-2022-adarl/), [nonstationarity](https://saramagliacane.github.io/publication/feng-2022-factored/) and [varying number of objects with different latent parameters](https://saramagliacane.github.io/publication/feng2023/), even when we cannot guarantee that we identified the true causal factors. 
 
-Previously I was a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at the VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. During my PhD I interned at Google Zürich and Google Research NYC. Previously, I had studied Computer Engineering at Politecnico di Milano and Torino and at the University of Trieste.
+Previously I was a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. During my PhD, I interned at Google Zürich and NYC. Previously, I studied Computer Engineering at Politecnico di Milano and Torino and at the University of Trieste.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/magliacane_cv_august2023.pdf" "newtab" >}}resumé{{< /staticref >}}.
