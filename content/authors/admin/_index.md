@@ -20,7 +20,7 @@ organizations:
     url: https://mitibmwatsonailab.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causality and causality-inspired ML.
+bio: I'm an assistant professor at the University of Amsterdam and a researcher at the MIT-IBM Watson AI Lab. I work on causality, causal representation learning and causality-inspired ML.
 
 # Interests to show in About widget
 interests:
@@ -34,9 +34,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: VU Amsterdam
       year: 2017
-    - course: MEng in Computer Science
+    - course: MSc in Computer Engineering (double degree)
       institution: Politecnico di Milano, Politecnico di Torino
       year: 2011
+    - course: BSc in Computer Engineering
+      institution: Università degli Studi di Trieste
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
