@@ -40,10 +40,10 @@ design:
   view: 2
 ---
 
-- October 2023: Invited talk at the IROS workshop on [Causality for Robotics: Answering the Question of Why](https://sites.google.com/view/iros23-causal-robots)
+- October 2023: Invited talk at the IROS workshop on [Causality for Robotics: Answering the Question of Why](https://sites.google.com/view/iros23-causal-robots)!
 
 
-- October 2023: We are organizing a [NeurIPS 2023 workshop on Causal Representation Learning](https://crl-workshop.github.io/), deadline Oct 2. *Update:*: we got 62 submissions!
+- October 2023: We are organizing a [NeurIPS 2023 workshop on Causal Representation Learning](https://crl-workshop.github.io/), deadline Oct 2. **Update** we got 62 submissions!
 
 
 - September 2023: Invited talk at the [5th Conference of the Central European Network](https://cen2023.github.io/home/) in the session on [Causal discovery with a view on the life sciences](https://www.conftool.pro/cen2023/index.php?page=browseSessions&form_session=30) the Biozentrum in Basel, CH.
