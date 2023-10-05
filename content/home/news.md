@@ -40,7 +40,7 @@ design:
   view: 2
 ---
 
-- October 2023: Invited talk at the IROS workshop on "Causality for Robotics: Answering the Question of Why"(https://sites.google.com/view/iros23-causal-robots)
+- October 2023: Invited talk at the IROS workshop on [Causality for Robotics: Answering the Question of Why](https://sites.google.com/view/iros23-causal-robots)
 
 
 - October 2023: We are organizing a [NeurIPS 2023 workshop on Causal Representation Learning](https://crl-workshop.github.io/), deadline Oct 2. *Update:*: we got 62 submissions!
