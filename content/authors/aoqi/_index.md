@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Phillip Lippe
+title: Aoqi Zuo
 
 # Username (this should match the folder name)
 authors:
-  - Phillip Lippe
+  - Aoqi Zuo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ELLIS PhD student (UvA/Qualcomm)
+role: PhD student (University of Melbourne)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Amsterdam
+  - name: University of Melbourne
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,12 +45,12 @@ social:
  # - icon: envelope
  #   icon_pack: fas
  #   link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/phillip_lippe
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/ffeng01
   - icon: house
     icon_pack: fas
-    link: https://phlippe.github.io
+    link: https://aoqiz.github.io/
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD students
+  - Guest researchers
 ---
 

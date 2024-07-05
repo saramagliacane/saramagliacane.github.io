@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Phillip Lippe
+title: Mara Pislar
 
 # Username (this should match the folder name)
 authors:
-  - Phillip Lippe
+  - Mara Pislar
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ELLIS PhD student (UvA/Qualcomm)
+role: Master student (UvA)
 
 # Organizations/Affiliations
 organizations:
@@ -45,12 +45,12 @@ social:
  # - icon: envelope
  #   icon_pack: fas
  #   link: 'mailto:test@example.org'
-  - icon: twitter
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/matyasschubert
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/phillip_lippe
-  - icon: house
-    icon_pack: fas
-    link: https://phlippe.github.io
+    link: https://www.linkedin.com/in/theodora-mara-pislar-983117196
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD students
+  - Master students
 ---
 
