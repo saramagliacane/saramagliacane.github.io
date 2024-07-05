@@ -10,14 +10,12 @@ last_name: Magliacane
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor, Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Amsterdam
     url: https://ivi.uva.nl/
-  - name: MIT-IBM Watson AI Lab 
-    url: https://mitibmwatsonailab.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an assistant professor at the University of Amsterdam. I work on causality, causal representation learning and causality-inspired ML.
