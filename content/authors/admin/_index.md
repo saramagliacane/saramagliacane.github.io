@@ -86,4 +86,4 @@ My research focuses on three directions: *causal representation learning* (i.e. 
 
 Previously I was a Research Scientist at [MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/) and a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. During my PhD, I interned at Google Zürich and NYC. Previously, I studied Computer Engineering at Politecnico di Milano and Torino and at the University of Trieste.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cvMagliacane_Feb2024.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cvMagliacane_July2024.pdf" "newtab" >}}resumé{{< /staticref >}}.

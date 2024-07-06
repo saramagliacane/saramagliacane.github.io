@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Team & Collaborators
+  - name: Team 
     url: '#team'
     weight: 50
   - name: Teaching
