@@ -50,7 +50,7 @@ social:
  #   link: https://twitter.com/matyasschubert
   - icon: house
     icon_pack: fas
-    link: https://danruxu.wordpress.com/danru-xu/
+    link: https://danrux.github.io/
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
