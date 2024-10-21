@@ -58,5 +58,5 @@ abstract: One practical challenge in reinforcement learning (RL) is how to make 
   policy optimization is avoided. We illustrate the efficacy of AdaRL through a series
   of experiments that vary factors in the observation, transition, and reward functions
   for Cartpole and Atari games.
-publication: '*International Conference on Learning Representations*'
+publication: '*International Conference on Learning Representations* Spotlight'
 ---

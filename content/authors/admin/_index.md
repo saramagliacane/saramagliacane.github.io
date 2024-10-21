@@ -79,7 +79,8 @@ email: ''
 highlight_name: true
 ---
 
-I am an assistant professor in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam. During Spring 2022, I was visiting the [Simons Institute in Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022).
+I am an assistant professor in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam and an ELLIS Scholar in the Interactive Learning and Interventional Representations
+program. During Spring 2022, I was visiting the [Simons Institute in Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022).
 
 The goal of my research is to find how can causality improve current machine learning (ML) algorithms, especially in terms of robustness, generalization across domains/tasks, and safety.
 My research focuses on three directions: *causal representation learning* (i.e. learning causal factors from high-dimensional data, e.g. sequences of images \[[1](https://saramagliacane.github.io/publication/pmlr-v-162-lippe-22-a/), [2](https://saramagliacane.github.io/publication/lippe2023-causal/), [3](https://saramagliacane.github.io/publication/lippe2023-biscuit/)\]), *causal discovery* (i.e. learning causal relations from data), and *causality-inspired ML*, e.g. how can ideas from causality help ML/RL [adapt to new domains](https://saramagliacane.github.io/publication/huang-2022-adarl/), [nonstationarity](https://saramagliacane.github.io/publication/feng-2022-factored/) and [varying number of objects with different latent parameters](https://saramagliacane.github.io/publication/feng2023/), even when we cannot guarantee that we identified the true causal factors. 

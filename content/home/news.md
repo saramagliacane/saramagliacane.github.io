@@ -39,9 +39,13 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- October 2024: Visiting Harvard to give an [invited talk on (i)CITRIS and BISCUIT](https://datascience.harvard.edu/calendar_event/causal-seminar-sara-magliacane/) in the Harvard Data Science Initiative Causal Seminar. I'm also a communication chair for [CLeaR 2025](https://www.cclear.cc/2025) and helping organize a [CRL workshop at NeurIPS 2024](https://crl-community.github.io/neurips24.html).
 
-- Summer 2024: Busy summer! First I will be co-organizing a ``Logic and AI'' workshop at the 
-Institute for Advanced Study (IAS) here in Amsterdam. Then I will go to [UAI 2024](https://www.auai.org/uai2024/), where [Riccardo](https://pages.di.unipi.it/massidda/) will be presenting our UAI 2024 paper on [learning linear abstractions](https://arxiv.org/abs/2406.00394), even without knowing neither the abstract nor the concrete causal graph. There I will give an invited talk at the [Causal Inference for Time Series workshop](https://sites.google.com/view/ci4ts2024/) and then help organize the (other?) [Causal Inference workshop](https://sites.google.com/view/causaluai-2024/home). After that I will attend ICML 2024, where [Danru](https://danrux.github.io/) and I will present our ICML 2024 paper on [CRL in partially observed settings](https://arxiv.org/abs/2403.08335), while with [Yongtuo](https://scholar.google.com/citations?user=EjzPQtMAAAAJ&hl=en) we will present our ICML 2024 paper on [Amortized Equation Discovery in Hybrid Dynamical Systems](https://arxiv.org/abs/2406.03818). 
+- September 2024: I have been travelling quite a lot, first to Dagstuhl for a seminar on [Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy
+](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24361), then to Nijmegen to give a keynote at [PGM 2024](https://www.ru.nl/en/about-us/events/probabilistic-graphical-models-pgm-2024), Oslo as an examiner for the PhD defense of [Ghadi Al Hajj](https://www.visual-intelligence.no/news/successful-phd-defense-by-ghadi-al-hajj) (it was successful :), and finally to Münich for an [Oktoberfest Causality mini-workshop](https://collab.dvb.bayern/display/TUMmathstat/Miniworkshop+on+Causal+Inference+2024) organized by TUM.  
+
+- Summer 2024: Busy summer! First I co-organized a [Logic and AI](https://ias.uva.nl/content/events/2024/07/logic-and-ai.html) workshop at the 
+Institute for Advanced Study (IAS) here in Amsterdam. Then I went to [UAI 2024](https://www.auai.org/uai2024/), where [Riccardo](https://pages.di.unipi.it/massidda/) presented our UAI 2024 paper on [learning linear abstractions](https://arxiv.org/abs/2406.00394), even without knowing neither the abstract nor the concrete causal graph. There I gave an invited talk at the [Causal Inference for Time Series workshop](https://sites.google.com/view/ci4ts2024/) and then helped organize the (other?) [Causal Inference workshop](https://sites.google.com/view/causaluai-2024/home). After that I  attended ICML 2024, where [Danru](https://danrux.github.io/) and I presented our ICML 2024 paper on [CRL in partially observed settings](https://arxiv.org/abs/2403.08335), while with [Yongtuo](https://scholar.google.com/citations?user=EjzPQtMAAAAJ&hl=en) we presented our ICML 2024 paper on [Amortized Equation Discovery in Hybrid Dynamical Systems](https://arxiv.org/abs/2406.03818). Finally, I gave an invited talk at ONRL for their [AI Seminar Series](https://ornl.github.io/events/ai-initiative-seminar-2024/).
 
 - June 2024: Invited talk at the CVPR 2024 [Causal and Object-centric Representation Learning for Robotics](https://corrworkshop.github.io/) workshop. It was a surprisingly sunny week in Seattle!
 
@@ -63,12 +67,3 @@ motivation and preliminary results`.
 - August 2023: Keynote on Causality-inspired ML at the [ELLIS Doctoral Symposium 2023](https://fcai.fi/eds2023/home) in Helsinki.
 Here are the [slides](https://saramagliacane.github.io/slides/ellis_doctoral_symposium2023_magliacane.pdf)
 
-- August 2023: I helped organize [UAI 2023](https://www.auai.org/uai2023/) as online chair. We also organized a [Causality in time series workshop](https://sites.google.com/view/ci4ts2023/home).
-
-- July 2023: Invited talk in the [Second Workshop on Spurious Correlations](https://icml.cc/virtual/2023/workshop/21493) at ICML.  
-
-- July 2023: Invited talk on Causality-inspired ML at the [European Meeting of Statisticians](https://ems2023.org/ems) in Warsaw. Pierogi <3
-
-- June 2023: Invited talk on [Causal vs Causality-inspired representation learning](https://mpml.tecnico.ulisboa.pt/seminars?id=7007) at the IST seminar series Mathematics, Physics & Machine Learning. 
-
-- June 2023: Lecture at the [SIKS causal inference course](https://siks.nl/activities/activities/siks-course-on-causal-inference/) on [constraint-based causal discovery](https://siks.nl/wp-content/uploads/sites/670/2023/05/SIKS_constraint_based_causal_discovery.pdf).
