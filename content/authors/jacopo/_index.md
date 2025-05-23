@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Phillip Lippe
+title: Jacopo Dapueto
 
 # Username (this should match the folder name)
 authors:
-  - Phillip Lippe
+  - Jacopo Dapueto
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ELLIS PhD student (UvA/Qualcomm)
+role: PhD student (U Genoa)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Amsterdam
+  - name: U Genoa
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,12 +45,12 @@ social:
  # - icon: envelope
  #   icon_pack: fas
  #   link: 'mailto:test@example.org'
-  - icon: twitter
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/ffeng01
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/phillip_lippe
-  - icon: house
-    icon_pack: fas
-    link: https://phlippe.github.io
+    link: https://it.linkedin.com/in/jacopo-dapueto-567558206
  # - icon: github
  #   icon_pack: fab
  #   link: https://github.com/gcushen
@@ -66,6 +66,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - PhD students
 ---
 
