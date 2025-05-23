@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (IIT Genoa)
+role: Visiting PhD student (IIT Genoa)
 
 # Organizations/Affiliations
 organizations:

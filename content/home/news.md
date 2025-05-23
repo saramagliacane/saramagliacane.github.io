@@ -58,23 +58,3 @@ design:
 - Summer 2024: Busy summer! First I co-organized a [Logic and AI](https://ias.uva.nl/content/events/2024/07/logic-and-ai.html) workshop at the 
 Institute for Advanced Study (IAS) here in Amsterdam. Then I went to [UAI 2024](https://www.auai.org/uai2024/), where [Riccardo](https://pages.di.unipi.it/massidda/) presented our UAI 2024 paper on [learning linear abstractions](https://arxiv.org/abs/2406.00394), even without knowing neither the abstract nor the concrete causal graph. There I gave an invited talk at the [Causal Inference for Time Series workshop](https://sites.google.com/view/ci4ts2024/) and then helped organize the (other?) [Causal Inference workshop](https://sites.google.com/view/causaluai-2024/home). After that I  attended ICML 2024, where [Danru](https://danrux.github.io/) and I presented our ICML 2024 paper on [CRL in partially observed settings](https://arxiv.org/abs/2403.08335), while with [Yongtuo](https://scholar.google.com/citations?user=EjzPQtMAAAAJ&hl=en) we presented our ICML 2024 paper on [Amortized Equation Discovery in Hybrid Dynamical Systems](https://arxiv.org/abs/2406.03818). Finally, I gave an invited talk at ONRL for their [AI Seminar Series](https://ornl.github.io/events/ai-initiative-seminar-2024/).
 
-- June 2024: Invited talk at the CVPR 2024 [Causal and Object-centric Representation Learning for Robotics](https://corrworkshop.github.io/) workshop. It was a surprisingly sunny week in Seattle!
-
-- April 2024: ICLR 2024 - I was one of the volunteer chairs, and we presented our work with our collaborators in ISTA, MILA, ETH and ServiceNow on [multi-view causal representation learning](https://openreview.net/forum?id=OGtnhKQJms) as an ICLR Spotlight.
-
-- April 2024: [Davide](https://davidetalon.github.io/) had an oral talk at [CLeaR 2024](https://www.cclear.cc/2024) on our paper about [reusability and compositionality of causal representations](https://arxiv.org/abs/2403.09830).
-
-- February 2024: [Danru](https://danrux.github.io/), [Phillip](https://phlippe.github.io/) and I participated in the [Bellairs Causality workshop](https://bclworkshop.github.io/2024/) presenting our works on [causal representation learning in partially observed settings](https://arxiv.org/abs/2403.08335) and [in temporal sequences with actions](https://arxiv.org/abs/2306.09643).
-
-- February 2024: [Matyas](https://matyasch.github.io/) and I participated in the Causal Discovery workshop in Bremen, presenting our ongoing work on ``Scalable targeted causal discovery:
-motivation and preliminary results`.
-
-- December 2023: NeurIPS 2023 - we had 2 conference papers: [Modulated Neural ODEs](https://arxiv.org/abs/2302.13262) and [DAFT-RL](https://arxiv.org/abs/2307.09205), we organized the [NeurIPS 2023 workshop on Causal Representation Learning](https://crl-workshop.github.io/) and had 4 workshop posters.
-
-- October 2023: Invited talk at the IROS workshop on [Causality for Robotics: Answering the Question of Why](https://sites.google.com/view/iros23-causal-robots)!
-
-- September 2023: Invited talk at the [5th Conference of the Central European Network](https://cen2023.github.io/home/) in the session on [Causal discovery with a view on the life sciences](https://www.conftool.pro/cen2023/index.php?page=browseSessions&form_session=30) the Biozentrum in Basel, CH.
-
-- August 2023: Keynote on Causality-inspired ML at the [ELLIS Doctoral Symposium 2023](https://fcai.fi/eds2023/home) in Helsinki.
-Here are the [slides](https://saramagliacane.github.io/slides/ellis_doctoral_symposium2023_magliacane.pdf)
-

@@ -7,24 +7,22 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
-    url: '#publications'
-    weight: 30
   - name: Team 
     url: '#team'
-    weight: 50
-  - name: Teaching
-    url: '#teaching'
-    weight: 60
+    weight: 20
   - name: News
     url: '#news'
-    weight: 65
+    weight: 30
+  - name: Publications
+    url: 'https://scholar.google.com/citations?user=H3j_zQ4AAAAJ&hl=en'
+    weight: 35
+  - name: Teaching
+    url: '#teaching'
+    weight: 67
   - name: Contact & Jobs
     url: '#contact'
     weight: 70
-  - name: Amsterdam Causality Meeting
-    url: "https://amscausality.github.io/"
-    weight: 80
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
