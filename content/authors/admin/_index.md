@@ -82,7 +82,7 @@ highlight_name: true
 I am an assistant professor in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam and an ELLIS Scholar in the Interactive Learning and Interventional Representations
 program. During Spring 2022, I was visiting the [Simons Institute in Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022).
 
-My research is at the intersection of causality and machine learning (ML). My goal is to find how can causal
+My research is at the intersection of **causality** and **machine learning**. My goal is to find how can causal
 reasoning improve state-of-the-art AI, especially in terms of robustness, generalization across domains/tasks,
 and safety, and imbue it with the strong theoretical guarantees typical of causality research. This Figure
 summarizes the research directions I have been pursuing and how they connect to each other.
