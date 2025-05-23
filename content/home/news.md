@@ -39,6 +39,17 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+- until June 15: I have an open [PhD position](https://werkenbij.uva.nl/en/vacancies/phd-position-on-learning-concepts-with-theoretical-guarantees-using-causality-and-rl-netherlands-14071) of Learning concepts with theoretical guarantees in collaboration with Frans Oliehoek at TU Delft
+
+- May 2025: [Matyas](https://matyasch.github.io/) went to present our work on [SNAP: Sequential Non-Ancestor Pruning](https://www.arxiv.org/abs/2502.07857) at AISTATS 2025.
+
+- April 2025: Organized a causality workshop with Virginia Aglietti at [DALI 2025](https://dalimeeting.org/sorrento2025/) in Sorrento.
+
+- February 2025: My first two PhD students got their PhD, both cum laude! Congrats [Riccardo Massidda (U Pisa)] (https://bsky.app/profile/smaglia.bsky.social/post/3lifjpfg2ek2w) and [Phillip Lippe (U Amsterdam)](https://bsky.app/profile/smaglia.bsky.social/post/3lj6p4hkls224)!! Matyas and I attended the Bellairs workshop on [Causality in the Era of Foundation Models](https://bclworkshop.github.io/2025/).
+
+- December 2024: [Guido Imbens (Stanford) visited our group](https://bsky.app/profile/amlab.bsky.social/post/3ld6cf3mbv22a).
+
 - October 2024: Visiting Harvard to give an [invited talk on (i)CITRIS and BISCUIT](https://datascience.harvard.edu/calendar_event/causal-seminar-sara-magliacane/) in the Harvard Data Science Initiative Causal Seminar. I'm also a communication chair for [CLeaR 2025](https://www.cclear.cc/2025) and helping organize a [CRL workshop at NeurIPS 2024](https://crl-community.github.io/neurips24.html).
 
 - September 2024: I have been travelling quite a lot, first to Dagstuhl for a seminar on [Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy
