@@ -48,7 +48,7 @@ social:
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/ffeng01
- - icon: house
+  - icon: house
     icon_pack: fas
     link: https://alexthirty.github.io/
  # - icon: github
