@@ -14,10 +14,8 @@ role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-
   - name: University of Amsterdam
     url: https://ivi.uva.nl/
-
 - name: Saarland University
     url: https://saarland-informatics-campus.de/en/
 
