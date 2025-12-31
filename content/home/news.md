@@ -40,7 +40,19 @@ design:
   view: 2
 ---
 
-- until June 15: I have an open [PhD position](https://werkenbij.uva.nl/en/vacancies/phd-position-on-learning-concepts-with-theoretical-guarantees-using-causality-and-rl-netherlands-14071) of Learning concepts with theoretical guarantees in collaboration with Frans Oliehoek at TU Delft
+- from 1 March 2026: I will be starting as a full professor in Machine Learning at [Saarland University](https://saarland-informatics-campus.de/en/), but I will also keep working part-time as a professor at the University of Amsterdam, where I will start my VIDI project.
+
+- January 2026- March 2026: I will be visiting the Isaac Newton Institute in Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/). Excited to give a talk in the [Foundations of Causal Inference](https://www.newton.ac.uk/event/cifw01/) workshop with so many excellent researchers!
+
+- December 2025: [UAI 2026](https://www.auai.org/uai2026/) will be in Amsterdam! I will be general chair with Silvia Chiappa, and will also organizing locally with [Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html)
+
+- November 2025: My VIDI project [CANES: a CAusal NEuro-Symbolic approach to integrating perception and abstract reasoning](https://ivi.uva.nl/content/news/2025/10/vidi-grant-for-sara-magliacane.html) was accepted! I will be hiring 2 PhDs and 1 postdoc in Spring 2026, stay tuned!
+
+- 20 October 2025: I gave a lecture on Causality and RL at the [SIKS course on RL for Adaptive Hybrid Intelligence](https://siks.nl/activities/activities/siks-course-rl-for-ahi-2025/) that attracted PhD students from all across the Netherlands.
+
+- 15 October 2025: I had an amazing time in Warsaw for ML in PL, where I gave an invited talk on [CRL](https://conference.mlinpl.org/program#invited-talks)!
+
+- July 2025: Silvia Chiappa and I successfully organized [UAI 2025](https://www.auai.org/uai2025) in Rio as program chairs with a fantastic organization committee! 
 
 - May 2025: [Matyas](https://matyasch.github.io/) went to present our work on [SNAP: Sequential Non-Ancestor Pruning](https://www.arxiv.org/abs/2502.07857) at AISTATS 2025.
 

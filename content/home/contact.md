@@ -24,17 +24,16 @@ design:
   columns: '2'
 ---
 
-For teaching matters, you can contact me via [Canvas](https://canvas.uva.nl). 
+For teaching matters, please contact me via the platform used during the course (e.g. Canvas at UvA).
+
+**PhD students.** I will have 2 open PhD positions at UvA for my VIDI project CANES on learning concepts with theoretical guarantee. The deadline will probably be in mid March 2026 and an ideal start date in Autumn 2026 - stay tuned! 
+
+**Postdocs.** I will also have an open postdoc position for 2 years at UvA for my VIDI project CANES on learning concepts with theoretical guarantee. The deadline will probably be in mid April 2026 - stay tuned!
 
 
-**PhD students.** I have an open [PhD position](https://werkenbij.uva.nl/en/vacancies/phd-position-on-learning-concepts-with-theoretical-guarantees-using-causality-and-rl-netherlands-14071) of Learning concepts with theoretical guarantees in collaboration with Frans Oliehoek at TU Delft. Deadline: 15 June.
+**Other jobs.** I usually don't have open positions for interns or research assistants at the University of Amsterdam, but I might have some positions at Saarland University. 
 
-
-
-**Other jobs.** Currently I don't have any open vacancy for interns, research assistants or postdocs, but if I do, they will be announced on the [UvA vacancies website](https://vacatures.uva.nl/UvA/search/?createNewAlert=false&q=&optionsFacetsDD_department=&optionsFacetsDD_shifttype=Promotieplaats&optionsFacetsDD_facility=Faculteit+der+Natuurw.%2C+Wiskunde+%26+Informatica).
-
-
-**Master students.** If you are a Master in AI student at the University of Amsterdam and are interested in causality, feel free to contact me for potential thesis topics. As a rule, I also don't supervise Bachelor or Master students from other universities.
+**Master students.** If you are a Master in AI student at the University of Amsterdam or Saarland University and are interested in causality, feel free to contact me for potential thesis topics. I don't supervise Bachelor or Master students from other universities.
 
 
 
