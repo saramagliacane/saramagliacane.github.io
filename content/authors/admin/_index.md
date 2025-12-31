@@ -16,8 +16,6 @@ role: Professor
 organizations:
   - name: University of Amsterdam
     url: https://ivi.uva.nl/
-- name: Saarland University
-    url: https://saarland-informatics-campus.de/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an assistant professor at the University of Amsterdam, and since 1 March 2026 I will be also a full professor at Saarland University. I work on causality, causal representation learning and causality-inspired ML.
