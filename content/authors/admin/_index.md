@@ -18,7 +18,7 @@ organizations:
     url: https://ivi.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an assistant professor at the University of Amsterdam, and since 1 March 2026 I will be also a full professor at Saarland University. I work on causality, causal representation learning and causality-inspired ML.
+bio: I'm a full professor at Saarland University and part of the Amsterdam Machine Learning Lab at the University of Amsterdam. I work on causality, causal representation learning and causality-inspired ML.
 
 # Interests to show in About widget
 interests:
@@ -79,8 +79,8 @@ email: ''
 highlight_name: true
 ---
 
-I am an assistant professor in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam and since 1 March 2026 I will be also a full professor at [Saarland University](https://saarland-informatics-campus.de/en/). I'm an ELLIS Scholar in the Interactive Learning and Interventional Representations
-program. During Spring 2022, I was visiting the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022). During Spring 2026, I will be visiting the Isaac Newton Institute at the University of Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/).
+I a full professor at [Saarland University](https://saarland-informatics-campus.de/en/) and I'm also part of the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam. I'm an ELLIS Scholar in the Interactive Learning and Interventional Representations
+program. During Spring 2022, I was visiting the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022). During Spring 2026, I visited the Isaac Newton Institute at the University of Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/).
 
 My research is at the intersection of **causality** and **machine learning**. My goal is to find how can causal
 reasoning improve state-of-the-art AI, especially in terms of robustness, generalization across domains/tasks,
