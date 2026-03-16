@@ -14,11 +14,15 @@ role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Saarland University
+    url: https://saarland-informatics-campus.de/en/
   - name: University of Amsterdam
     url: https://ivi.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a full professor at Saarland University and part of the Amsterdam Machine Learning Lab at the University of Amsterdam. I work on causality, causal representation learning and causality-inspired ML.
+
+  **Hiring 2 PhD students** at the University of Amsterdam on [learning causally grounded concepts for safe AI](https://www.academictransfer.com/en/jobs/359354/2-phd-positions-on-learning-causally-grounded-concepts-for-safe-ai) - deadline 20 April 2026
 
 # Interests to show in About widget
 interests:
