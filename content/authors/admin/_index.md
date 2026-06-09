@@ -86,6 +86,8 @@ highlight_name: true
 I'm a full professor at [Saarland University](https://saarland-informatics-campus.de/en/) since 2026 and I'm also part of the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam. I'm an ELLIS Scholar in the Interactive Learning and Interventional Representations
 program. During Spring 2022, I was visiting the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022). During Spring 2026, I visited the Isaac Newton Institute at the University of Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/).
 
+**Important:** I don't have any open position at the moment, and once I will have them, I will advertise them widely, so no need to email me.
+
 My research is at the intersection of **causality** and **machine learning**. My goal is to find how can causal
 reasoning improve state-of-the-art AI, especially in terms of robustness, generalization across domains/tasks,
 and safety, and imbue it with the strong theoretical guarantees typical of causality research. This Figure
@@ -99,4 +101,4 @@ Previously I was a Research Scientist at [MIT-IBM Watson AI lab](https://mitibmw
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_magliacane_jan2026.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-**Important:** I don't have any open position unless it is explicitly advertised.
+
