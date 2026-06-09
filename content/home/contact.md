@@ -24,17 +24,18 @@ design:
   columns: '2'
 ---
 
-For teaching matters, please contact me via the platform used during the course (e.g. Canvas at UvA).
+For teaching matters, please do not use the email and contact me via the platform used during the course.
 
-**PhD students.** I have [2 open PhD positions at UvA](https://www.academictransfer.com/en/jobs/359354/2-phd-positions-on-learning-causally-grounded-concepts-for-safe-ai)
- for my VIDI project CANES on learning concepts with theoretical guarantees. The deadline is on 20 April 2026 and an ideal start date in Autumn 2026 - stay tuned! 
+**Important.** Before emailing me about positions, please check the details below. Due to the high frequency of emails, I will not be able to answer to questions that are already covered here.
 
-**Postdocs.** I will also have an open postdoc position for 2 years at UvA for my VIDI project CANES on learning concepts with theoretical guarantee. The deadline will probably be in mid May 2026 - stay tuned!
+**PhD students.** I currently do not have any open position. When I will have some, I will advertise them widely, so no need to email me.
+
+**Postdocs.** I will also have an open postdoc position for 2 years at UvA for my VIDI project CANES on learning concepts with theoretical guarantee. The deadline will probably be in late 2026 - stay tuned!
 
 
-**Other jobs.** I usually don't have open positions for interns or research assistants at the University of Amsterdam, but I might have some positions at Saarland University starting in Fall 2026. 
+**Inters and other jobs.** I currently don't have open positions for interns or research assistants.
 
-**Master students.** If you are a Master in AI student at the University of Amsterdam or Saarland University and are interested in causality, feel free to contact me for potential thesis topics. I don't supervise Bachelor or Master students from other universities.
+**Bachelor/Master students.** I currently don't take any Bachelor or Master students at Saarland University until the next academic year. I don't supervise Bachelor or Master students from other universities.
 
 
 

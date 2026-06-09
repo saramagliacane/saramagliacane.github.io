@@ -83,8 +83,6 @@ email: ''
 highlight_name: true
 ---
 
-**Hiring 2 PhD students** at the University of Amsterdam on [learning causally grounded concepts for safe AI](https://www.academictransfer.com/en/jobs/359354/2-phd-positions-on-learning-causally-grounded-concepts-for-safe-ai) - deadline 20 April 2026
-
 I'm a full professor at [Saarland University](https://saarland-informatics-campus.de/en/) since 2026 and I'm also part of the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam. I'm an ELLIS Scholar in the Interactive Learning and Interventional Representations
 program. During Spring 2022, I was visiting the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022). During Spring 2026, I visited the Isaac Newton Institute at the University of Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/).
 
@@ -100,3 +98,5 @@ My research focuses on three directions: (i) *causal representation learning* (i
 Previously I was a Research Scientist at [MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/) and a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. During my PhD, I interned at Google Zürich and NYC. Previously, I studied Computer Engineering at Politecnico di Milano and Torino and at the University of Trieste.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_magliacane_jan2026.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+**Important:** I don't have any open position unless it is explicitly advertised.

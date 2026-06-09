@@ -40,8 +40,6 @@ design:
   view: 2
 ---
 
-- until 20 April 2026: I'm hiring 2 PhD students at the University of Amsterdam on [learning causally grounded concepts for safe AI](https://www.academictransfer.com/en/jobs/359354/2-phd-positions-on-learning-causally-grounded-concepts-for-safe-ai)
-
 - 1 March 2026: I have started as a full professor in Machine Learning at [Saarland University](https://saarland-informatics-campus.de/en/), but I will also keep working part-time as a professor at the University of Amsterdam, where I will start my VIDI project.
 
 - January 2026- March 2026: I will be visiting the Isaac Newton Institute in Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/). Excited to give a talk in the [Foundations of Causal Inference](https://www.newton.ac.uk/event/cifw01/) workshop with so many excellent researchers!
