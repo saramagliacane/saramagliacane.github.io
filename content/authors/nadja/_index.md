@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (AUMC)
+role: PhD student (VU)
 
 # Organizations/Affiliations
 organizations:
-  - name: Amsterdam University Medical Center
+  - name: VU University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

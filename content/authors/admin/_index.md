@@ -84,9 +84,7 @@ highlight_name: true
 ---
 
 I'm a full professor at [Saarland University](https://saarland-informatics-campus.de/en/) since 2026 and I'm also part of the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) at the University Amsterdam. I'm an ELLIS Scholar in the Interactive Learning and Interventional Representations
-program. During Spring 2022, I was visiting the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022). During Spring 2026, I visited the Isaac Newton Institute at the University of Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/).
-
-**Important:** I don't have any open position at the moment, and once I will have them, I will advertise them widely, so no need to email me.
+program. During Spring 2022, I visited the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/) for a semester on [Causality](https://simons.berkeley.edu/programs/Causality2022). During Spring 2026, I visited the Isaac Newton Institute at the University of Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/).
 
 My research is at the intersection of **causality** and **machine learning**. My goal is to find how can causal
 reasoning improve state-of-the-art AI, especially in terms of robustness, generalization across domains/tasks,
@@ -95,9 +93,6 @@ summarizes the research directions I have been pursuing and how they connect to 
 
 ![](uploads/pipeline.png)
 
-My research focuses on three directions: (i) *causal representation learning* (i.e. learning causal variables from high-dimensional data, e.g. sequences of images \[[1](https://arxiv.org/abs/2202.03169), [2](https://arxiv.org/abs/2206.06169), [3](https://arxiv.org/abs/2306.09643), [4](https://arxiv.org/abs/2403.08335)\]), (i) *causal discovery* (i.e. learning causal relations from data, e.g. focusing on a statistically and computationally efficient way \[[5](https://www.arxiv.org/abs/2502.07857)\]), and (iii) *downstream tasks*, e.g., how can causality ideas help ML/RL adapt to new domains or nonstationarity and compositionally generalize (\[[6](https://arxiv.org/abs/2107.02729), [7](https://arxiv.org/abs/2203.16582), [8](https://arxiv.org/abs/2307.09205)\]). 
-
-Previously I was a Research Scientist at [MIT-IBM Watson AI lab](https://mitibmwatsonailab.mit.edu/) and a postdoctoral researcher at IBM Research NY, working on methods to design experiments that would allow one to learn causal relations in a [sample-efficient](https://saramagliacane.github.io/publication/greenewald-2019-sample/) and [intervention-efficient](https://saramagliacane.github.io/publication/squires-2022-active/) way. I received a PhD at VU Amsterdam on [learning causal relations jointly from different experimental settings](https://saramagliacane.github.io/publication/mooij-2020/), even with latent confounders and small samples. During my PhD, I interned at Google Zürich and NYC. Previously, I studied Computer Engineering at Politecnico di Milano and Torino and at the University of Trieste.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_magliacane_jan2026.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
