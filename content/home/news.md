@@ -40,7 +40,7 @@ design:
   view: 2
 ---
 
-- **PhD position** I have 1 ELLIS PhD position at Saarland University on Causal Representation Learning for Robotics. The cosupervison is [Stratis Gavves](https://www.egavves.com/) at the University of Amsterdam. Apply directly at the [ELLIS centralized application portal](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026).
+- **PhD position** I have 1 ELLIS PhD position at Saarland University on Causal Representation Learning for Robotics. The cosupervisor is [Stratis Gavves](https://www.egavves.com/) at the University of Amsterdam. Apply directly at the [ELLIS centralized application portal](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026).
 
 - 1 March 2026: I have started as a full professor in Machine Learning at [Saarland University](https://saarland-informatics-campus.de/en/), but I will also keep working part-time as a professor at the University of Amsterdam, where I will start my VIDI project.
 

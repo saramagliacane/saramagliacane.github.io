@@ -28,7 +28,7 @@ For teaching matters, please do not use the email and contact me via the platfor
 
 **Important.** Before emailing me about positions, please check the details below. Due to the high frequency of emails, I will not be able to answer to questions that are already covered here.
 
-**PhD students.** I have 1 ELLIS PhD position at Saarland University on Causal Representation Learning for Robotics. The cosupervison is [Stratis Gavves](https://www.egavves.com/) at the University of Amsterdam. Apply directly at the [ELLIS centralized application portal](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026).
+**PhD students.** I have 1 ELLIS PhD position at Saarland University on Causal Representation Learning for Robotics. The cosupervisor is [Stratis Gavves](https://www.egavves.com/) at the University of Amsterdam. Apply directly at the [ELLIS centralized application portal](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026).
 
 
 **Postdocs.** I will also have an open postdoc position for 2 years at UvA for my VIDI project CANES on learning concepts with theoretical guarantee. The deadline will probably be in late 2026 - stay tuned!
