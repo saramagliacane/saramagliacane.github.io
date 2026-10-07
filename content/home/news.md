@@ -40,9 +40,11 @@ design:
   view: 2
 ---
 
+- **PhD position** I have 1 ELLIS PhD position at Saarland University on Causal Representation Learning for Robotics. The cosupervison is [Stratis Gavves](https://www.egavves.com/) at the University of Amsterdam. Apply directly at the [ELLIS centralized application portal](https://ellis.eu/news/ellis-phd-program-call-for-applications-2026).
+
 - 1 March 2026: I have started as a full professor in Machine Learning at [Saarland University](https://saarland-informatics-campus.de/en/), but I will also keep working part-time as a professor at the University of Amsterdam, where I will start my VIDI project.
 
-- January 2026- March 2026: I will be visiting the Isaac Newton Institute in Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/). Excited to give a talk in the [Foundations of Causal Inference](https://www.newton.ac.uk/event/cifw01/) workshop with so many excellent researchers!
+- January 2026- March 2026: I have visited the Isaac Newton Institute in Cambridge for the programme [Causal inference: From theory to practice and back again](https://www.newton.ac.uk/event/cif/). Excited to give a talk in the [Foundations of Causal Inference](https://www.newton.ac.uk/event/cifw01/) workshop with so many excellent researchers!
 
 - December 2025: [UAI 2026](https://www.auai.org/uai2026/) will be in Amsterdam! I will be general chair with Silvia Chiappa, and will also organizing locally with [Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html)
 
@@ -53,8 +55,6 @@ design:
 - 15 October 2025: I had an amazing time in Warsaw for ML in PL, where I gave an invited talk on [CRL](https://conference.mlinpl.org/program#invited-talks)!
 
 - July 2025: Silvia Chiappa and I successfully organized [UAI 2025](https://www.auai.org/uai2025) in Rio as program chairs with a fantastic organization committee! 
-
-- May 2025: [Matyas](https://matyasch.github.io/) went to present our work on [SNAP: Sequential Non-Ancestor Pruning](https://www.arxiv.org/abs/2502.07857) at AISTATS 2025.
 
 - April 2025: Organized a causality workshop with Virginia Aglietti at [DALI 2025](https://dalimeeting.org/sorrento2025/) in Sorrento.
 
