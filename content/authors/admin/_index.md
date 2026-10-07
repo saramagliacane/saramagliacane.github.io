@@ -22,6 +22,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a full professor at Saarland University and part of the Amsterdam Machine Learning Lab at the University of Amsterdam. I work on causality, causal representation learning and causality-inspired ML.
 
+# Interests to show in About widget
+interests:
+  - Causal Representation Learning, Causal discovery
+  - Causality in general
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: VU Amsterdam
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
